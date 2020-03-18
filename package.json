@@ -49,7 +49,7 @@
     "eslint": "^6.0.0",
     "eslint-config-prettier": "^6.0.0",
     "eslint-plugin-prettier": "^3.0.1",
-    "mocha": "^7.0.0",
+    "mocha": "^7.1.1",
     "nyc": "^15.0.0",
     "prettier": "^1.17.0",
     "utf-8-validate": "^5.0.2"
